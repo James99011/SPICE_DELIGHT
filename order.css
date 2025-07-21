@@ -1,0 +1,31 @@
+body {
+  background-color: #fdfdfd;
+}
+
+.plate {
+  background-color: black;
+  border-radius: 100%;
+}
+
+#result {
+  /* box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  line-height: 1.6; */
+  font-size: 1.1rem;
+  border: 1px solid #dee2e6;
+  min-height: 100px;
+}
+
+.same-size {
+  height: 42px;
+  font-size: 16px;
+}
+
+.total-price {
+  color: #007bff;
+  font-weight: bold;
+}
+
+.home-link:hover {
+  text-decoration: underline;
+  color: rgb(107, 106, 106);
+}
